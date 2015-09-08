@@ -1,6 +1,6 @@
 # Note
 This is a GNU/Linux driver for the SiS (Silicon Integrated Systems) graphics card. It's only tested with the 662 and 671 models.
-Works good and little perfomance issues in 'Linux Mint 17.2' with the 671 chip at full resolution (1280x800).
+Works good with little perfomance issues in 'Linux Mint 17.2' with the 671 chip at full resolution (1280x800).
 Forked from: https://gitorious.org/xf86-video-sis671/sis-671-fix
 
 # Build & Install
